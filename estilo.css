@@ -19,3 +19,11 @@ p {
     text-align: justify;
     font-size: 25px;
 }
+
+ul {
+margin-bottom: 5px;
+}
+
+.link:hover {
+color: red;
+}
