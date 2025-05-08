@@ -48,6 +48,9 @@ li {
 
 table {
     border: 1px solid;
+}
+
+table, tr, td {
     width: 50%;
 }
 
