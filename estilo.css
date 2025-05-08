@@ -67,7 +67,7 @@ td {
 }
 
 .tabela img {
-    width: 300px;
+    object-fit: contain;
     height: auto;
 }
 
