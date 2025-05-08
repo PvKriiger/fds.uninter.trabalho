@@ -31,6 +31,12 @@ li {
     margin-bottom: 10px;
 }
 
+.imagem {
+    margin-right: 10px;
+    width: 30px;
+    height: auto;
+}
+
 .link:hover {
 color: red;
 }
