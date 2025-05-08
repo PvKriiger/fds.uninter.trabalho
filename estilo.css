@@ -46,6 +46,11 @@ li {
     margin: 0;
 }
 
+table, th, td {
+    border: 1px solid;
+    width: 100%;
+}
+
 .tabela img {
     width: 100px;
     height: auto;
