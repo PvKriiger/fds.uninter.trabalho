@@ -15,7 +15,7 @@ h1 {
     height: auto;
 }
 
-p {
+.autobiografia {
     text-align: justify;
     font-size: 25px;
 }
@@ -38,6 +38,10 @@ li {
     width: 40px;
     height: auto;
     margin-right: 10px;
+}
+
+.imagem p {
+    margin: 0;
 }
 
 .link:hover {
