@@ -66,6 +66,10 @@ td {
     text-align: center;
 }
 
+th {
+    background-color: rgb(152, 178, 230);
+}
+
 .tabela img {
     width: 300px;
     height: auto;
