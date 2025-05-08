@@ -48,10 +48,11 @@ li {
 
 table {
     border: 1px solid;
+    width: 50%;
 }
 
-table, tr, td {
-    width: 50%;
+tr, td {
+    width: 100%;
 }
 
 .tabela img {
