@@ -26,15 +26,18 @@ ul {
 }
 
 li {
-    display: flex;
-    align-items: center;
     margin-bottom: 10px;
 }
 
 .imagem {
-    margin-right: 1px;
-    width: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.imagem img {
+    width: 40px;
     height: auto;
+    margin-right: 10px;
 }
 
 .link:hover {
