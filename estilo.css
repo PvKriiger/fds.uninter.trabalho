@@ -55,6 +55,10 @@ tr, td {
     width: 100%;
 }
 
+td {
+    text-align: center;
+}
+
 .tabela img {
     width: 300px;
     height: auto;
