@@ -46,6 +46,11 @@ li {
     margin: 0;
 }
 
+.tabela img {
+    width: 40px;
+    height: auto;
+}
+
 .link:hover {
     color: red;
 }
