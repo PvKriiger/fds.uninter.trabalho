@@ -46,7 +46,7 @@ li {
     margin: 0;
 }
 
-table, th, td {
+table {
     border: 1px solid;
     width: 50%;
 }
